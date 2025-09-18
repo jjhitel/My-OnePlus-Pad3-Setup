@@ -50,29 +50,33 @@ Game Assistant app is not pre-installed on OnePlus Pad 3.
 This section is for manually flashing a full OxygenOS package. Your bootloader must be unlocked.
 
 ### **Resources**
+* **OOS Flasher:** [Flasher Template for OPD2415](https://github.com/jjhitel/My-OnePlus-Pad3-Setup/raw/refs/heads/main/OPD2415_OOS%20Flasher_v1.0.zip)
 * **ROM Archive:** [Official OnePlus ROMs (China)](https://yun.daxiaamu.com/OnePlus_Roms/%E4%B8%80%E5%8A%A0OnePlus%20Pad%202%20Pro/)
 * **Payload Extractor:** [payload-dumper-go](https://github.com/ssut/payload-dumper-go)
 
 ### **Flashing Steps**
-1.  Download the required Full OTA file from the ROM Archive.
 
-2.  Use the OTA Extractor (`payload-dumper-go`) to extract all `.img` files from the `payload.bin`.
+1.  Download the OOS Flasher Template and extract it.
 
-3.  Place the extracted image files into the `OOS_FILES_HERE` folder.
+2.  Download the required Full OTA file from the ROM Archive.
 
-4.  **(Optional for Pad 2 Pro)** To fix a stylus malfunction when installing OxygenOS on Pad 2 Pro, you can replace the ODM image.
+3.  Use the OTA Extractor (`payload-dumper-go`) to extract all `.img` files from the `payload.bin`.
+
+4.  Place the extracted image files into the `OOS_FILES_HERE` folder within the extracted Flasher Template directory.
+
+5.  **(Optional for Pad 2 Pro)** To fix a stylus malfunction when installing OxygenOS on Pad 2 Pro, you can replace the ODM image.
 
     * Extract `odm.img` from a ColorOS firmware.
 
     * Place it inside the `COS_FILES_HERE` folder. You will be able to select the ODM when running the flasher script.
 
-    * Relocking the bootloader is still possible even after replacing the ODM, but it may cause issues with OTA updates.
+    * Relocking the bootloader is still possible even after replacing it, but it may cause issues with OTA updates.
 
     * *Note: If you plan to root, you can skip this and use the `fix-odm-oplus-pad2pro` module instead.*
 
-5.  Boot your device into Fastboot mode (`Volume Down + Power`) and connect it to your PC.
+6.  Boot your device into Fastboot mode (`Volume Down + Power`) and connect it to your PC.
 
-6.  Run `OOS_Flasher.bat` script and follow the on-screen instructions.
+7.  Run `OOS_Flasher.bat` script and follow the on-screen instructions.
 
 ---
 
