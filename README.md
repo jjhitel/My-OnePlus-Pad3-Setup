@@ -99,7 +99,7 @@ This section is for manually flashing a full OxygenOS package. Your bootloader m
 8.  In your terminal, run the following commands to flash the patched image:
 
     ```fastboot flash init_boot kernelsu_next_patched_{date}_{time}.img```
-    
+
 9.  If the flashing is successful, reboot your device:
 
     ```fastboot continue```
