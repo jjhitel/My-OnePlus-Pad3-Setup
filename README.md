@@ -27,7 +27,7 @@ Game Assistant app is not pre-installed on OnePlus Pad 3.
 
 ### **Install Drivers, ADB & Fastboot**
 
-* [Nexus Tools](https://github.com/corbindavenport/nexus-tools)
+* [Installer](https://github.com/K3V1991/ADB-and-FastbootPlusPlus)
 
 1.  **Enable Developer Options:** Go to `Settings > About device > Version` and tap the `Version number` multiple times until you see a confirmation message.
 
