@@ -106,4 +106,4 @@ This section is for manually flashing a full OxygenOS package. Your bootloader m
 
 ---
 
-## **[Magisk/KernelSU Modules I use](./MODULES.md)**
+## **[KernelSU/LSPosed Modules I use](./MODULES.md)**
