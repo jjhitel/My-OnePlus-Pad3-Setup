@@ -9,8 +9,6 @@
 
 -   [LSPosed](https://github.com/JingMatrix/LSPosed)
 
--   [CuRefreshRateTuner](https://github.com/chenzyadb/CuRefreshRateTuner)
-
 -   [De-Bloater](https://github.com/sunilpaulmathew/De-Bloater)
 
 -   Dolby Atmos for OnePlus Pad 3
@@ -26,3 +24,12 @@
 -   [lybFrameGen](https://lybxlpsv.com/framegen/)
 
 -   [Fdroid-Priv](https://github.com/entr0pia/Fdroid-Priv)
+
+---
+
+## **LSPosed Modules**
+-   [DisableAudioFocus](https://github.com/auag0/DisableAudioFocus)
+
+-   [fcmfix](https://github.com/kooritea/fcmfix)
+
+-   [OnePlusPlusLauncher](https://github.com/wizpizz/OnePlusPlusLauncher)
