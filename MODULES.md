@@ -11,9 +11,11 @@
 
 -   [De-Bloater](https://github.com/sunilpaulmathew/De-Bloater)
 
+-   [Adreno GPU Vulkan Driver V@0842.6](https://t.me/adrenodrivers/218482/220626)
+
 -   Dolby Atmos for OnePlus Pad 3
 
--   [fix-odm-oplus-pad2pro](https://github.com/jjhitel/fix-odm-oplus-pad2pro)
+-   [notocjk](https://github.com/simonsmh/notocjk)
 
 -   [LMKD-PSI-Activator](https://github.com/lululoid/LMKD-PSI-Activator)
 
