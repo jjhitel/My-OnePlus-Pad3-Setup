@@ -10,7 +10,7 @@ A collection of instructions and resources for OnePlus Pad 3 (OPD2415) aka OnePl
 
 ---
 
-## **Game Assistant**
+## **Where is the Game Assistant?**
 
 Game Assistant app is not pre-installed on OnePlus Pad 3.
 
@@ -45,7 +45,13 @@ Game Assistant app is not pre-installed on OnePlus Pad 3.
 
 ---
 
-## **Flashing OxygenOS**
+## **Fix Widevine L1 with Unlocked Bootloader**
+
+* Follow this [Guide](https://xdaforums.com/t/fix-widevine-l1-unlocked-bootloader.4731374/)
+
+---
+
+## **Flash OxygenOS**
 
 This section is for manually flashing a full OxygenOS package. Your bootloader must be unlocked.
 
