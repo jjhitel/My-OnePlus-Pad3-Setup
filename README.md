@@ -56,7 +56,7 @@ Game Assistant app is not pre-installed on OnePlus Pad 3.
 This section is for manually flashing a full OxygenOS package. Your bootloader must be unlocked.
 
 ### **Resources**
-* **OOS Flasher:** [Flasher Template for OPD2415](https://github.com/jjhitel/My-OnePlus-Pad3-Setup/raw/refs/heads/main/OPD2415_OOS%20Flasher_v1.0.zip)
+* **OOS Flasher:** [Flasher Template for OPD2415](https://github.com/jjhitel/My-OnePlus-Pad3-Setup/raw/refs/heads/main/OPD2415_OOS%20Flasher_v1.1.zip)
 * **ROM Archive:** [Official OnePlus ROMs (China)](https://yun.daxiaamu.com/OnePlus_Roms/%E4%B8%80%E5%8A%A0OnePlus%20Pad%202%20Pro/)
 * **Payload Extractor:** [payload-dumper-go](https://github.com/ssut/payload-dumper-go)
 
