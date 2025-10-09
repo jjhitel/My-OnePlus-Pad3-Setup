@@ -31,3 +31,11 @@
     ```
     fastboot continue
     ```
+
+---
+### **How to Install OTA while Maintaining Root**
+After an OTA or local update is installed, do not reboot. Instead, open the KernelSU Next app.
+
+Tap the **Install** button in the top right, then go to **Install** -> **Install to Inactive Slot**. After it finishes, reboot the device.
+
+The update will be applied, and root access will be maintained.
