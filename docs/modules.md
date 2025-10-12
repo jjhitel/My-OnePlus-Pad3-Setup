@@ -1,8 +1,6 @@
 ## **KernelSU Modules**
 - [ReZygisk](https://github.com/PerformanC/ReZygisk)
   - Implements the Zygisk API with a focus on open-source transparency, security, and performance.
-- [TrickyStore](https://github.com/5ec1cff/TrickyStore)
-  - Spoofs a valid certificate chain to the device's Trusted Execution Environment (TEE).
 - [PlayIntegrityFix](https://github.com/KOWX712/PlayIntegrityFix)
   - Fixes Play Integrity and SafetyNet verdicts to get a valid attestation.
 - [NoHello](https://github.com/MhmRdd/NoHello)
@@ -15,8 +13,6 @@
   - Ports the Dolby Atmos equalizer sound effect for an enhanced audio experience.
 - [notocjk](https://github.com/simonsmh/notocjk)
   - Replaces CJK fonts with the Noto CJK Variable font for better typography.
-- [LMKD-PSI-Activator](https://github.com/lululoid/LMKD-PSI-Activator)
-  - Improves RAM management by activating PSI mode in LMKD.
 - [OOSGMS-OPTIMISER](https://github.com/epicmann24/OOSGMS-OPTIMISER)
   - Optimizes and removes trackers from Google Mobile Services (GMS) and OxygenOS (OOS).
 - [AdGuard Certificate](https://github.com/AdguardTeam/adguardcert)
