@@ -15,7 +15,7 @@ I am not responsible for any damage to your device. Proceed at your own risk.
 
 ## **Environment**
 
-* Tested On [OxygenOS 15.0.1.701](https://community.oneplus.com/thread/1924865591823302663)
+* Tested On [OxygenOS 15.0.1.801](https://community.oneplus.com/thread/1971218898548162560)
 
 ---
 
