@@ -1,4 +1,4 @@
-## **KernelSU Modules**
+## **Magisk/KernelSU Modules**
 - [ReZygisk](https://github.com/PerformanC/ReZygisk)
   - Implements the Zygisk API with a focus on open-source transparency, security, and performance.
 - [PlayIntegrityFix](https://github.com/KOWX712/PlayIntegrityFix)
@@ -31,3 +31,8 @@
   - Adds extra useful features to the OnePlus System Launcher on OxygenOS, **including the ability to disable Google Discover.**
 - [Scene](http://vtools.omarea.com/)
   - Provides a geek's toolbox for frame rate adjustment, scheduling adjustment, and process management.
+
+---
+
+## **Android 16**
+See the separate [document](modules-a16.md).

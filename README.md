@@ -23,7 +23,7 @@ I am not responsible for any damage to your device. Proceed at your own risk.
 - [OxygenOS Tips](docs/stock.md)
 - [Unlock Bootloader](docs/unlock.md)
 - [Flash OxygenOS](docs/flash-oos.md)
-- [Root](docs/root.md)
+- [Root](docs/root.md) + [Modules](docs/modules.md)
 - [Install OTA with Root](docs/root.md#how-to-install-ota-while-maintaining-root)
 - [Fix Widevine L1](docs/widevine.md)
 - [Unbrick](docs/unbrick.md)
