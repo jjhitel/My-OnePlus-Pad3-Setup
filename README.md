@@ -20,7 +20,8 @@ I am not responsible for any damage to your device. Proceed at your own risk.
 ---
 
 ## **Guide**
-- [OxygenOS Tips](docs/stock.md)
+- [Debloat ColorOS](docs/debloat-coloros.md)
+- [Tips for OxygenOS](docs/stock.md)
 - [Unlock Bootloader](docs/unlock.md)
 - [Flash OxygenOS](docs/flash-oos.md)
 - [Flash Android 16 Beta](docs/flash-beta.md)
