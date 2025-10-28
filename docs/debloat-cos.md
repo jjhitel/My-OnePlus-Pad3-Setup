@@ -61,6 +61,7 @@ adb shell pm uninstall --user 0 com.oplus.aiwriter
 adb shell pm uninstall --user 0 com.oplus.appdetail
 adb shell pm uninstall --user 0 com.oplus.appsense
 adb shell pm uninstall --user 0 com.oplus.crashbox
+adb shell pm uninstall --user 0 com.oplus.games
 adb shell pm uninstall --user 0 com.oplus.game.empowerment.folder
 adb shell pm uninstall --user 0 com.oplus.location
 adb shell pm uninstall --user 0 com.oplus.olc
