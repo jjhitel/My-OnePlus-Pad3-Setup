@@ -15,7 +15,7 @@ I am not responsible for any damage to your device. Proceed at your own risk.
 
 ## **Environment**
 
-* Tested On [OxygenOS 15.0.1.801](https://community.oneplus.com/thread/1971218898548162560)
+* Tested On [OxygenOS 15.0.1.801](https://community.oneplus.com/thread/1971218898548162560) ~ ColorOS 16.0.0.206
 
 ---
 
@@ -23,7 +23,7 @@ I am not responsible for any damage to your device. Proceed at your own risk.
 - [OxygenOS Tips](docs/stock.md)
 - [Unlock Bootloader](docs/unlock.md)
 - [Flash OxygenOS](docs/flash-oos.md)
-- [Flash Android 16 Beta](docs/flash-beta.md)
+- [Flash Beta (A16)](docs/flash-beta.md)
 - [Root](docs/root.md) + [Modules](docs/modules.md)
 - [Install OTA with Root](docs/root.md#how-to-install-ota-while-maintaining-root)
 - [Fix Widevine L1](docs/widevine.md)
