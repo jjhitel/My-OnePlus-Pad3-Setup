@@ -20,7 +20,7 @@ I am not responsible for any damage to your device. Proceed at your own risk.
 ---
 
 ## **Guide**
-- [Debloat ColorOS](docs/debloat-coloros.md)
+- [Debloat ColorOS](docs/debloat-cos.md)
 - [Tips for OxygenOS](docs/stock.md)
 - [Unlock Bootloader](docs/unlock.md)
 - [Flash OTA](docs/flash-ota.md)
