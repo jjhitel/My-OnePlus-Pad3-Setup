@@ -4,7 +4,7 @@ This section is for manually flashing a full OxygenOS package. Your bootloader m
 
 ### **Resources**
 * **COS Flasher:** [Flasher Template for Pad 2 Pro](https://mega.nz/file/hc91CQLJ#50Veg8rD3tMXoLL6M60GoW6WoaTTvQjtdIJ9BgjkF9k)
-* **OOS Flasher:** [Flasher Template for Pad 3](https://mega.nz/file/kJlD2QrT#yzYPmRia8dwsIfaQetgoloNBshgr_jbsiAJ80wryaoo)
+* **OOS Flasher:** [Flasher Template for Pad 2 Pro/Pad 3](https://mega.nz/file/kJlD2QrT#yzYPmRia8dwsIfaQetgoloNBshgr_jbsiAJ80wryaoo)
 * **ROM Archive:** [Official OnePlus ROMs (China)](https://yun.daxiaamu.com/OnePlus_Roms/%E4%B8%80%E5%8A%A0OnePlus%20Pad%202%20Pro/)
 * **OTA Extractor:** [otaripper](https://github.com/syedinsaf/otaripper/releases)
 
