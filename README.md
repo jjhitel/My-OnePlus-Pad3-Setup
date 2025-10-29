@@ -23,7 +23,7 @@ I am not responsible for any damage to your device. Proceed at your own risk.
 - [Debloat ColorOS](docs/debloat-coloros.md)
 - [Tips for OxygenOS](docs/stock.md)
 - [Unlock Bootloader](docs/unlock.md)
-- [Flash OxygenOS](docs/flash-oos.md)
+- [Flash OTA](docs/flash-ota.md)
 - [Flash Beta (A16)](docs/flash-beta.md)
 - [Root](docs/root.md) + [Modules](docs/modules.md)
 - [Install OTA with Root](docs/root.md#how-to-install-ota-while-maintaining-root)

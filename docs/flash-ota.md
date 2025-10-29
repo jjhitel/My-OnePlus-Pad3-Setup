@@ -1,15 +1,16 @@
-# Flash OxygenOS
+# Flash OTA
 
 This section is for manually flashing a full OxygenOS package. Your bootloader must be unlocked.
 
 ### **Resources**
-* **OOS Flasher:** [Flasher Template for OPD2415](https://github.com/jjhitel/My-OnePlus-Pad3-Setup/raw/refs/heads/main/OPD2415_OOS%20Flasher_v1.1.zip)
+* **COS Flasher:** [Flasher Template for Pad 2 Pro](https://mega.nz/file/hc91CQLJ#50Veg8rD3tMXoLL6M60GoW6WoaTTvQjtdIJ9BgjkF9k)
+* **OOS Flasher:** [Flasher Template for Pad 3](https://mega.nz/file/kJlD2QrT#yzYPmRia8dwsIfaQetgoloNBshgr_jbsiAJ80wryaoo)
 * **ROM Archive:** [Official OnePlus ROMs (China)](https://yun.daxiaamu.com/OnePlus_Roms/%E4%B8%80%E5%8A%A0OnePlus%20Pad%202%20Pro/)
 * **OTA Extractor:** [otaripper](https://github.com/syedinsaf/otaripper/releases)
 
 ### **Flashing Steps**
 
-1.  Download the OOS Flasher Template and extract it.
+1.  Download the Flasher Template and extract it.
 
 2.  Download the required Full OTA file from the ROM Archive.
 
@@ -18,11 +19,15 @@ This section is for manually flashing a full OxygenOS package. Your bootloader m
     otaripper -p path/to/ota.zip -o path/to/output_dir
     ```
 
-4.  Place the extracted image files into the `OOS_FILES_HERE` folder within the extracted Flasher Template directory.
+4.  Place the extracted image files into the `OOS_FILES_HERE`(`COS_FILES_HERE` for COS) folder within the extracted Flasher Template directory.
 
-5.  **(Optional for Pad 2 Pro)** To fix a stylus malfunction when installing OxygenOS on Pad 2 Pro, you can replace the ODM image.
+5.  **(Optional for Pad 2 Pro)** To fix a stylus malfunction when installing OxygenOS on Pad 2 Pro, you should replace the ODM image.
 
     * Extract `odm.img` from a ColorOS firmware.
+
+    ```
+    otaripper -p path/to/ota.zip --partitions odm
+    ```
 
     * Place it inside the `COS_FILES_HERE` folder. You will be able to select the ODM when running the flasher script.
 
