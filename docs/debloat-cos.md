@@ -37,6 +37,7 @@ adb shell pm uninstall --user 0 com.coloros.remoteguardservice
 adb shell pm uninstall --user 0 com.coloros.sceneservice
 adb shell pm uninstall --user 0 com.coloros.securityguard
 adb shell pm uninstall --user 0 com.coloros.sharescreen
+adb shell pm uninstall --user 0 com.oplus.aimemory
 adb shell pm uninstall --user 0 com.oplus.qualityprotect
 adb shell pm uninstall --user 0 com.oplus.tai.borderpresearch
 adb shell pm uninstall --user 0 com.heytap.accessory
