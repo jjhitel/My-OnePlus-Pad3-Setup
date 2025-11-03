@@ -15,7 +15,8 @@ I am not responsible for any damage to your device. Proceed at your own risk.
 
 ## **Environment**
 
-* Tested On [OxygenOS 15.0.1.801](https://community.oneplus.com/thread/1971218898548162560) ~ ColorOS 16.0.0.206
+* Tested On OnePlus Pad 3 with [OxygenOS 15.0.1.801](https://community.oneplus.com/thread/1971218898548162560)
+* Tested On OnePlus Pad 2 Pro with ColorOS 16.0.0.210
 
 ---
 
