@@ -1,7 +1,7 @@
 # ColorOS Debloat List
 
 ## Environment
-- ColorOS 16.0.0.206
+- ColorOS 16.0.0.210
 
 ## ADB Command List
 
@@ -64,7 +64,6 @@ adb shell pm uninstall --user 0 com.oplus.crashbox
 adb shell pm uninstall --user 0 com.oplus.games
 adb shell pm uninstall --user 0 com.oplus.game.empowerment.folder
 adb shell pm uninstall --user 0 com.oplus.location
-adb shell pm uninstall --user 0 com.oplus.olc
 adb shell pm uninstall --user 0 com.oplus.onetrace
 adb shell pm uninstall --user 0 com.oplus.owork
 adb shell pm uninstall --user 0 com.oplus.securitypermission
