@@ -15,7 +15,7 @@ I am not responsible for any damage to your device. Proceed at your own risk.
 
 ## **Environment**
 
-* Tested On OnePlus Pad 3 with [OxygenOS 15.0.1.801](https://community.oneplus.com/thread/1971218898548162560)
+* Tested On OnePlus Pad 3 with OxygenOS 16.0.0.211
 * Tested On OnePlus Pad 2 Pro with ColorOS 16.0.0.210
 
 ---
@@ -25,7 +25,6 @@ I am not responsible for any damage to your device. Proceed at your own risk.
 - [Tips for ColorOS/OxygenOS](docs/stock.md)
 - [Unlock Bootloader](docs/unlock.md)
 - [Flash OTA](docs/flash-ota.md)
-- [Flash Beta (A16)](docs/flash-beta.md)
 - [Root](docs/root.md) + [Modules](docs/modules.md)
 - [Install OTA with Root](docs/root.md#how-to-install-ota-while-maintaining-root)
 - [Fix Widevine L1](docs/widevine.md)
