@@ -25,3 +25,16 @@ COS/OOS includes its own aggressive permission monitoring system that is far mor
 While intended for security, this feature often acts as an excessive limitation, interfering with legitimate power-user functions like advanced tools (e.g., Shizuku) or specific ADB commands.
 
 Enabling 'Disable permission monitoring' in Developer Options allows you to bypass these overly restrictive controls. This removes inconveniences and grants greater freedom for system customization and the use of advanced applications.
+
+---
+
+## **Disable Google Discover**
+This is properly applicable on COS/OOS 16.
+
+Proceed with 'Disable permission monitoring' above, enable USB debugging, and connect your device to PC.
+
+Open a command prompt where adb is located and enter the following commands:
+
+> adb shell settings put secure assistant_screen_type 0
+
+> adb shell settings put secure assistant_screen_type_left_enable 0
