@@ -1,20 +1,23 @@
+## **Environment**
+- Tested On OxygenOS 16.0.1.302
+
+---
+
 ## **Magisk/KernelSU Modules**
 - [ReZygisk](https://github.com/PerformanC/ReZygisk)
   - Implements the Zygisk API with a focus on open-source transparency, security, and performance.
-- [PlayIntegrityFix](https://github.com/KOWX712/PlayIntegrityFix)
+- [Tricky Store](https://github.com/5ec1cff/TrickyStore)
+  - Modifies the Android Key Attestation certificate chain to pass integrity checks.
+- [PlayIntegrityFork](https://github.com/osm0sis/PlayIntegrityFork/actions/runs/18437509161)
   - Fixes Play Integrity and SafetyNet verdicts to get a valid attestation.
-- [NoHello](https://github.com/MhmRdd/NoHello)
-  - Hides root access from apps.
+- [Integrity-Box](https://github.com/MeowDump/Integrity-Box)
+  - An open-source keybox updater and toolset with various spoofing features to help pass Play Integrity.
+- [Treat Wheel](https://t.me/zygote64_32)
+  - A Zygisk module to help hide root and pass integrity checks.
 - [LSPosed](https://github.com/JingMatrix/LSPosed)
   - Allows for real-time modifications to system and app behavior without altering APKs through an ART framework.
 - [De-Bloater](https://github.com/sunilpaulmathew/De-Bloater)
   - Systemlessly removes unwanted system applications.
-- Dolby Atmos for OnePlus Pad 3
-  - Ports the Dolby Atmos equalizer sound effect for an enhanced audio experience.
-- [notocjk](https://github.com/simonsmh/notocjk)
-  - Replaces CJK fonts with the Noto CJK Variable font for better typography.
-- [OOSGMS-OPTIMISER](https://github.com/epicmann24/OOSGMS-OPTIMISER)
-  - Optimizes and removes trackers from Google Mobile Services (GMS) and OxygenOS (OOS).
 - [AdGuard Certificate](https://github.com/AdguardTeam/adguardcert)
   - Installs AdGuard's CA certificate to the system store on rooted devices for HTTPS filtering.
 - [lybFrameGen](https://lybxlpsv.com/framegen/)
@@ -25,14 +28,7 @@
 ## **LSPosed Modules**
 - [DisableAudioFocus](https://github.com/auag0/DisableAudioFocus)
   - Disables audio focus, allowing multiple audio sources to play simultaneously.
-- [fcmfix](https://github.com/kooritea/fcmfix)
-  - Fixes issues with Firebase Cloud Messaging (FCM) push notifications.
-- [OnePlusPlusLauncher](https://github.com/wizpizz/OnePlusPlusLauncher)
-  - Adds extra useful features to the OnePlus System Launcher on OxygenOS, **including the ability to disable Google Discover.**
+- [OShin](https://github.com/suqi8/OShin)
+  - Customizes deeply ColorOS/OxygenOS systems.
 - [Scene](http://vtools.omarea.com/)
   - Provides a geek's toolbox for frame rate adjustment, scheduling adjustment, and process management.
-
----
-
-## **Android 16**
-See the separate [document](modules-a16.md).
