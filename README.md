@@ -28,4 +28,4 @@ I am not responsible for any damage to your device. Proceed at your own risk.
 - [Root](docs/root.md) + [Modules](docs/modules.md)
 - [Install OTA with Root](docs/root.md#how-to-install-ota-while-maintaining-root)
 - [Fix Widevine L1](docs/widevine.md)
-- [Unbrick](docs/unbrick.md)
+- [Unbrick & Cross-Flash](docs/unbrick.md)
