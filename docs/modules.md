@@ -18,9 +18,9 @@
   - Modifies the certificate chain generated for android key attestation.
 - [LSPosed IT](https://t.me/LSP_Leaks)
   - Provides an ART hooking framework which delivers consistent APIs with the OG Xposed, leveraging LSPlant hooking framework.
-- [AdGuard Certificate](https://github.com/AdguardTeam/adguardcert)
+- [AdGuard Certificate](https://github.com/AdguardTeam/adguardcert) _(PAID)_
   - Installs AdGuard's CA certificate to the system store on rooted devices for HTTPS filtering.
-- [lybFrameGen](https://lybxlpsv.com/framegen/)
+- [lybFrameGen](https://lybxlpsv.com/framegen/) _(PAID)_
   - Uses frame generation to increase the perceived smoothness of motion in games and apps.
 
 ---
@@ -32,5 +32,5 @@
   - Customizes deeply ColorOS/OxygenOS systems.
 - [DisableAudioFocus](https://github.com/auag0/DisableAudioFocus)
   - Disables audio focus, allowing multiple audio sources to play simultaneously.
-- [Scene](http://vtools.omarea.com/)
+- [Scene](http://vtools.omarea.com/) _(PAID)_
   - Provides a geek's toolbox for frame rate adjustment, scheduling adjustment, and process management.
