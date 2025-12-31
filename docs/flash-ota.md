@@ -4,7 +4,7 @@ This section is for manually flashing a full OxygenOS package. Your bootloader m
 
 ### **Resources**
 * **COS Flasher:** [Flasher Template for Pad 2 Pro](https://mega.nz/file/hc91CQLJ#50Veg8rD3tMXoLL6M60GoW6WoaTTvQjtdIJ9BgjkF9k)
-* **OOS Flasher:** [Flasher Template for Pad 2 Pro/Pad 3](https://mega.nz/file/kJlD2QrT#yzYPmRia8dwsIfaQetgoloNBshgr_jbsiAJ80wryaoo)
+* **OOS Flasher:** [Flasher Template for Pad 3](https://mega.nz/file/kJlD2QrT#yzYPmRia8dwsIfaQetgoloNBshgr_jbsiAJ80wryaoo)
 * **ROM Archive:** [Official OnePlus ROMs (China)](https://yun.daxiaamu.com/OnePlus_Roms/%E4%B8%80%E5%8A%A0OnePlus%20Pad%202%20Pro/)
 * **OTA Extractor:** [otaripper](https://github.com/syedinsaf/otaripper/releases)
 
@@ -21,25 +21,9 @@ This section is for manually flashing a full OxygenOS package. Your bootloader m
 
 4.  Place the extracted image files into the `OOS_FILES_HERE`(`COS_FILES_HERE` for COS) folder within the extracted Flasher Template directory.
 
-5.  **(Optional for Pad 2 Pro)** To fix a stylus malfunction when installing OxygenOS on Pad 2 Pro, you should replace the ODM image.
+5.  Boot your device into Fastboot mode (`Volume Down + Power`) and connect it to your PC.
 
-    * Extract `odm.img` from a ColorOS firmware.
+6.  Run `OOS_Flasher.bat` script and follow the on-screen instructions.
 
-    ```
-    otaripper -p path/to/ota.zip --partitions odm
-    ```
-
-    * Place it inside the `COS_FILES_HERE` folder. You will be able to select the ODM when running the flasher script.
-
-    * Relocking the bootloader is still possible even after replacing it, but it may cause issues with OTA updates.
-
-> **Note:**
-> If you plan to root, you can skip this and use the `fix-odm-oplus-pad2pro` module instead.
-
-> **Note2:**
-> Recently, I purchased a new Pad 3 in addition to my existing Pad 2 Pro, and I've noticed more compatibility issues that aren't easily recognized in the same OOS environment. It appears that replacing more files within the ODM is necessary, so I recommend simply replacing the odm.img file.
-
-
-6.  Boot your device into Fastboot mode (`Volume Down + Power`) and connect it to your PC.
-
-7.  Run `OOS_Flasher.bat` script and follow the on-screen instructions.
+### **Cross-Flash**
+Thanks to technological advancements, you can now install OxygenOS on Pad 2 Pro or ColorOS on Pad 3 without any stylus or OTA issues! However, the method has changed, so refer to this [guide](./unbrick.md)
