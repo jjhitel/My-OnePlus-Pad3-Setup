@@ -4,6 +4,8 @@
 ---
 
 ## **Magisk/KernelSU Modules**
+- [OverlayFS MetaModule](https://github.com/KernelSU-Modules-Repo/meta-overlayfs)
+  - Reference implementation of the overlayfs mount handler for KernelSU metamodules
 - [YetAnotherBootloopProtector](https://github.com/rhythmcache/YetAnotherBootloopProtector)
   - Protects your device from bootloops and system ui failures caused by Magisk/KernelSU/APatch Modules.
 - [ReZygisk](https://github.com/PerformanC/ReZygisk)
