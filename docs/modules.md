@@ -4,20 +4,18 @@
 ---
 
 ## **Magisk/KernelSU Modules**
+- [YetAnotherBootloopProtector](https://github.com/rhythmcache/YetAnotherBootloopProtector)
+  - Protects your device from bootloops and system ui failures caused by Magisk/KernelSU/APatch Modules.
 - [ReZygisk](https://github.com/PerformanC/ReZygisk)
-  - Implements the Zygisk API with a focus on open-source transparency, security, and performance.
-- [Tricky Store](https://github.com/5ec1cff/TrickyStore)
-  - Modifies the Android Key Attestation certificate chain to pass integrity checks.
-- [PlayIntegrityFork](https://github.com/osm0sis/PlayIntegrityFork/actions/runs/18437509161)
-  - Fixes Play Integrity and SafetyNet verdicts to get a valid attestation.
-- [Integrity-Box](https://github.com/MeowDump/Integrity-Box)
-  - An open-source keybox updater and toolset with various spoofing features to help pass Play Integrity.
+  - Standalone implementation of Zygisk, providing Zygisk API support for KernelSU and a replacement of Magisk's built-in Zygisk.
 - [Treat Wheel](https://t.me/zygote64_32)
-  - A Zygisk module to help hide root and pass integrity checks.
-- [LSPosed](https://github.com/JingMatrix/LSPosed)
-  - Allows for real-time modifications to system and app behavior without altering APKs through an ART framework.
-- [De-Bloater](https://github.com/sunilpaulmathew/De-Bloater)
-  - Systemlessly removes unwanted system applications.
+  - Root-hiding module designed for ReZygisk that conceals Zygisk traces from detection.
+- [PlayIntegrityFork](https://github.com/osm0sis/PlayIntegrityFork)
+  - Fixes Play Integrity and SafetyNet verdicts to get a valid attestation.
+- [Tricky Store](https://github.com/5ec1cff/TrickyStore)
+  - Modifies the certificate chain generated for android key attestation.
+- [LSPosed IT](https://t.me/LSP_Leaks)
+  - Provides an ART hooking framework which delivers consistent APIs with the OG Xposed, leveraging LSPlant hooking framework.
 - [AdGuard Certificate](https://github.com/AdguardTeam/adguardcert)
   - Installs AdGuard's CA certificate to the system store on rooted devices for HTTPS filtering.
 - [lybFrameGen](https://lybxlpsv.com/framegen/)
@@ -26,9 +24,11 @@
 ---
 
 ## **LSPosed Modules**
-- [DisableAudioFocus](https://github.com/auag0/DisableAudioFocus)
-  - Disables audio focus, allowing multiple audio sources to play simultaneously.
+- [HMA-OSS](https://github.com/frknkrc44/HMA-OSS)
+  - Hides apps or rejects app list requests, and provides some methods to test whether you have hidden your app list properly.
 - [OShin](https://github.com/suqi8/OShin)
   - Customizes deeply ColorOS/OxygenOS systems.
+- [DisableAudioFocus](https://github.com/auag0/DisableAudioFocus)
+  - Disables audio focus, allowing multiple audio sources to play simultaneously.
 - [Scene](http://vtools.omarea.com/)
   - Provides a geek's toolbox for frame rate adjustment, scheduling adjustment, and process management.
