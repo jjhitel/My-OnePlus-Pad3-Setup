@@ -8,8 +8,6 @@ On OnePlus Pad 2 Pro, it is pre-installed, but it includes excessive Chinese con
 
 1. Install/Update [Games by HeyTap](https://play.google.com/store/apps/details?id=com.oplus.games) from Google Play Store.
 
-> **Note:** The global variant of Games app is missing "Championship Mode," which includes Touch Boost. If you need this, install the [ColorOS variant](https://www.apkmirror.com/apk/heytap/oneplus-games-3) (with the green icon) instead.
-
 ---
 
 ## **Disable Ram expansion**
