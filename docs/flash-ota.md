@@ -1,6 +1,6 @@
 # Flash OTA
 
-This section is for manually flashing a full OxygenOS package. Your bootloader must be unlocked.
+This section is for manually flashing a full OTA package. Your bootloader must be unlocked.
 
 ### **Resources**
 * **COS Flasher:** [Flasher Template for Pad 2 Pro](https://mega.nz/file/hc91CQLJ#50Veg8rD3tMXoLL6M60GoW6WoaTTvQjtdIJ9BgjkF9k)
