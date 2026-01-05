@@ -21,6 +21,9 @@
 - [LSPosed](https://t.me/LSP_Leaks)
   - Provides an ART hooking framework which delivers consistent APIs with the OG Xposed, leveraging LSPlant hooking framework.
 
+- [BRENE](https://github.com/rrr333nnn333/BRENE)
+  - SuSFS module for custom kernels with SuSFS patches.
+
 - [AdGuard Certificate](https://github.com/AdguardTeam/adguardcert) _(PAID)_
   - Installs AdGuard's CA certificate to the system store on rooted devices for HTTPS filtering.
 
