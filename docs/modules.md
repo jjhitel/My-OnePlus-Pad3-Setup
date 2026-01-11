@@ -24,6 +24,9 @@
 - [BRENE](https://github.com/rrr333nnn333/BRENE)
   - SuSFS module for custom kernels with SuSFS patches.
 
+- [8Elite GPU Driver](https://t.me/OnePlusPad3Chat/5023)
+  - v849 drivers extracted from Qualcomm Snapdragon 8 Elite Gen 5 device
+
 - [AdGuard Certificate](https://github.com/AdguardTeam/adguardcert) _(PAID)_
   - Installs AdGuard's CA certificate to the system store on rooted devices for HTTPS filtering.
 
