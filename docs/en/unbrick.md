@@ -25,7 +25,7 @@ Run `OplusEdlTool.exe` from the extracted folder.
 * **Digest:** Select `OPPO_SM8750_Digest.elf`.
 * **Sig:** Select `OPPO_SM8750_Sign.bin`.
 
-![Image: OplusEdlTool Configuration Interface](./edl.png)
+![Image: OplusEdlTool Configuration Interface](../edl.png)
 
 ### **2. Enter EDL Mode**
 Reboot your device into EDL mode.
@@ -46,7 +46,7 @@ Open **Device Manager** on Windows and check for `Qualcomm HS-USB QDLoader 9008 
 4.  Add a space before the `(COM...)` part.
 5.  Disconnect and reconnect the cable. The tool should now detect the port.
 
-![Image: Registry Editor FriendlyName Fix](./edl2.png)
+![Image: Registry Editor FriendlyName Fix](../edl2.png)
 
 ### **4. Connect to Firehose**
 Once the port is detected in the top right of the tool:

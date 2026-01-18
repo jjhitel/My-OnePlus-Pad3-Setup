@@ -1,3 +1,5 @@
+[🇰🇷 한국어](./README_ko-KR.md)
+
 # OnePlus Pad 3 / OnePlus Pad 2 Pro Guide
 
 <p align="center">
@@ -21,11 +23,11 @@ I am not responsible for any damage to your device. Proceed at your own risk.
 ---
 
 ## **Guide**
-- [Debloat ColorOS](docs/debloat-cos.md)
-- [Tips for ColorOS/OxygenOS](docs/stock.md)
-- [Unlock Bootloader](docs/unlock.md)
-- [Flash OTA](docs/flash-ota.md)
-- [Root](docs/root.md) + [Modules](docs/modules.md)
-- [Install OTA with Root](docs/root.md#how-to-install-ota-while-maintaining-root)
-- [Fix Widevine L1](docs/widevine.md)
-- [Unbrick & Cross-Flash](docs/unbrick.md)
+- [Debloat ColorOS](docs/en/debloat-cos.md)
+- [Tips for ColorOS/OxygenOS](docs/en/stock.md)
+- [Unlock Bootloader](docs/en/unlock.md)
+- [Flash OTA](docs/en/flash-ota.md)
+- [Root](docs/en/root.md) + [Modules](docs/en/modules.md)
+- [Install OTA with Root](docs/en/root.md#how-to-install-ota-while-maintaining-root)
+- [Fix Widevine L1](docs/en/widevine.md)
+- [Unbrick & Cross-Flash](docs/en/unbrick.md)
