@@ -1,5 +1,7 @@
 # 벽돌 해결 / 교차 플래싱 가이드 (EDL 방식)
 
+⚠️ **필독** 이 방법은 OxygenOS 16.0.3.500부터 안티 롤백(Anti-Rollback, ARB)이 도입되어 사용이 불가능합니다. ColorOS 16.0.3.501 버전에서는 아직 ARB가 도입되지 않아 사용이 가능합니다.
+
 이 가이드는 EDL(Emergency Download) 모드를 사용하여 기기를 벽돌 상태에서 복구하거나 OnePlus Pad 2 Pro와 OnePlus Pad 3 간의 변환(교차 플래싱)을 하는 방법을 설명합니다.
 
 ---

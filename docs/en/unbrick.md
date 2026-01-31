@@ -1,5 +1,7 @@
 # Unbrick / Cross-Flash Guide (EDL Method)
 
+⚠️ **MUST READ** This method is no longer available starting from OxygenOS 16.0.3.500 due to the introduction of Anti-Rollback (ARB). It remains functional on ColorOS 16.0.3.501, as ARB has not yet been implemented in that version.
+
 This guide explains how to unbrick your device or convert between OnePlus Pad 2 Pro and OnePlus Pad 3 (Cross-flashing) using the EDL (Emergency Download) mode.
 
 ---
